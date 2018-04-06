@@ -2,9 +2,9 @@
 > This Is A Guide That'll Help You Get A Very Simple Discord Bot Up And Running
 
 # Resources Being Used
-> [Discord.JS Documentation](https://discord.js.org)\n
-[Node.JS](https://nodejs.org/dist/v8.11.1/node-v8.11.1-x64.msi)\n
-[Visual Studio Code](https://go.microsoft.com/fwlink/?Linkid=852157)
+> [Discord.JS Documentation](https://discord.js.org)
+> [Node.JS](https://nodejs.org/dist/v8.11.1/node-v8.11.1-x64.msi)
+> [Visual Studio Code](https://go.microsoft.com/fwlink/?Linkid=852157)
 
 
 # Starting The Bot
