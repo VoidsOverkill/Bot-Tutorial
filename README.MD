@@ -10,8 +10,8 @@
 
 
 # Starting The Bot
-You Will Want To Open The Directory Folder You Saved All The Files In, Then Press **Shift+Right** Click And Press Open With Command Prompt Or Open Power Shell Window And You Want To Run This Command `node index.js
-`
+You Will Want To Open The Directory Folder You Saved All The Files In, Then Press **Shift+Right** Click And Press Open With Command Prompt Or Open Power Shell Window And You Want To Run This Command `Node Index.JS
+` Make Sure You Enter The Command As Lower-Case 
 
 # Getting Your Token
 You Can Get Your Token [Here](https://discordapp.com/developers/applications/me) If You Haven't Logged In Yet, It'll Show The Log In Screen
