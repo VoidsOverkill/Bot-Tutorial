@@ -19,3 +19,6 @@ You Can Get Your Token [Here](https://discordapp.com/developers/applications/me)
 # Other Guides
 You Can Follow York *The Idiot* [Here](https://anidiots.guide/)
 
+# Editing
+You May Open [Issues](https://github.com/VoidsOverkill/Bot-Tutorial/issues), However It Needs To Be In **Full** Detail, There Is No Support Server For This That's Why We Will Allow The Issues Page Open, Everyone Is Allow To Download This And Make Any Changes To It To Improve It
+
