@@ -16,4 +16,6 @@ You Will Want To Open The Directory Folder You Saved All The Files In, Then Pres
 # Getting Your Token
 You Can Get Your Token [Here](https://discordapp.com/developers/applications/me) If You Haven't Logged In Yet, It'll Show The Log In Screen
 
+# Other Guides
+You Can Follow York *The Idiot* [Here](https://anidiots.guide/)
 
